@@ -3,7 +3,7 @@
 -I have used Python to download the data set from Kaggle extracted it and made some changes.
 
 -Here are some of the insights I have found from the visualization.
-1. Ride Frequency Over Time
+##1. Ride Frequency Over Time
 Insight: The data shows a clear seasonal trend with bike ridership peaking in the summer months (June to August) and declining during the winter (December to February). Weekdays also see more ridership compared to weekends, indicating a strong commuter base.
 2. Impact of Weather on Ridership
 Insight: There's a noticeable drop in ridership on rainy and colder days, with optimal riding conditions occurring when temperatures are moderate (15-20°C) and there's no precipitation. This indicates that bike usage is weather-sensitive.
